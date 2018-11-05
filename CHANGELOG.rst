@@ -38,8 +38,8 @@ Added
 - ``auth_source`` parameter in ``MongoTrackerStore`` defining the database to
   authenticate against
 - environment variables specified with ``${env_variable}`` in a yaml
-    configuration file are now replaced with the value of the environment variable
-
+  configuration file are now replaced with the value of the environment variable
+- detailed documentation on how to deploy Rasa with Docker
 
 Changed
 -------
